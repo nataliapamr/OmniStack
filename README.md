@@ -1,4 +1,4 @@
-# OmniStack
+# OmniStack- Tindev
 Project has NodeJS as Backend, React as Frontend and React Native as Mobile.
 
 The project is similar to Tinder but for devs, where you can find devs via their github accounts.
