@@ -5,3 +5,5 @@ The project is similar to Tinder but for devs, where you can find devs via their
 You will have access to dev's photo, username and bio. You can like or dislike a profile.
  
 #### run npm install
+
+#### run yarn start - frontend
