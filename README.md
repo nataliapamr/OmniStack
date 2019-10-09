@@ -9,7 +9,3 @@ You will have access to dev's photo, username and bio. You can like or dislike a
 #### run yarn start - frontend
  
 #### run yarn serve - backend
-
-
-
------- END
